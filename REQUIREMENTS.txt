@@ -1,0 +1,3 @@
+spaCy library:
+
+en_core_web_lg
