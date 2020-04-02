@@ -8,7 +8,7 @@ nlp = spacy.load('en_core_web_lg')
 
 #get a text
 
-my_string = '.'
+my_string = "Here is my string, and it's a wonderful thing."
 
 #create a tag lexicon using SpaCy's terms - this list should be exhaustive
 
